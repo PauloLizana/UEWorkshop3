@@ -3187,3 +3187,42 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.19-15.43.49:704][186]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.01.19-15.43.49:714][187]LogPlayLevel: Display: Destroying online subsystem :Context_13
 [2024.01.19-15.43.49:732][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.19-15.46.08:114][876]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.01.19-15.46.56:371][956]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.01.19-15.46.56:381][956]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.01.19-15.46.56:394][957]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.01.19-15.47.02:877][555]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Rotation
+[2024.01.19-15.47.02:878][555]LogContentBrowser: End creating deferred item NewInputAction
+[2024.01.19-15.47.28:335][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.19-15.47.28:338][783]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.023
+[2024.01.19-15.47.28:339][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Blueprints/Assets/IA_Rotation] ([1] browsable assets)...
+[2024.01.19-15.47.28:339][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/Assets/IA_Rotation]
+[2024.01.19-15.47.28:340][783]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Blueprints/Assets/IA_Rotation_Auto1
+[2024.01.19-15.47.28:340][783]LogSavePackage: Moving '../../../../../../Users/an7505/Documents/GitHub/UEWorkshop3/workshop2/Saved/IA_Rotation_Auto1ABB07B624F4E166005E06295EF968ABC.tmp' to '../../../../../../Users/an7505/Documents/GitHub/UEWorkshop3/workshop2/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/IA_Rotation_Auto1.uasset'
+[2024.01.19-15.47.28:340][783]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.01.19-15.49.15:001][791]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/StarterContent/Blueprints/Assets/IA_Rotation.IA_Rotation
+[2024.01.19-15.49.32:655][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.49.32:690][881]LogSavePackage: Moving output files for package: /Game/StarterContent/Blueprints/Assets/IA_Rotation
+[2024.01.19-15.49.32:690][881]LogSavePackage: Moving '../../../../../../Users/an7505/Documents/GitHub/UEWorkshop3/workshop2/Saved/IA_Rotation40B33DC64B51A19FF66520B62771C71C.tmp' to '../../../../../../Users/an7505/Documents/GitHub/UEWorkshop3/workshop2/Content/StarterContent/Blueprints/Assets/IA_Rotation.uasset'
+[2024.01.19-15.49.32:697][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 539 ms)
+[2024.01.19-15.49.32:702][881]AssetCheck: New page: Asset Save: IA_Rotation
+[2024.01.19-15.49.32:702][881]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/StarterContent/Blueprints/Assets/IA_Rotation.IA_Rotation
+[2024.01.19-15.55.37:472][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.55.37:528][958]LogSavePackage: Moving output files for package: /Game/StarterContent/Blueprints/BP_PlayerCharacter
+[2024.01.19-15.55.37:528][958]LogSavePackage: Moving '../../../../../../Users/an7505/Documents/GitHub/UEWorkshop3/workshop2/Saved/BP_PlayerCharacter267D247B4992A70BB5FA0AA104D073D8.tmp' to '../../../../../../Users/an7505/Documents/GitHub/UEWorkshop3/workshop2/Content/StarterContent/Blueprints/BP_PlayerCharacter.uasset'
+[2024.01.19-15.55.37:537][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 604 ms)
+[2024.01.19-15.55.37:544][958]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2024.01.19-15.55.37:544][958]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2024.01.19-15.55.40:291][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.19-15.55.40:293][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.55.40:333][194]LogSavePackage: Moving output files for package: /Game/StarterContent/Blueprints/Assets/IMC
+[2024.01.19-15.55.40:333][194]LogSavePackage: Moving '../../../../../../Users/an7505/Documents/GitHub/UEWorkshop3/workshop2/Saved/IMCABC3F79147A0D6AE3F2698B58AD9DB3E.tmp' to '../../../../../../Users/an7505/Documents/GitHub/UEWorkshop3/workshop2/Content/StarterContent/Blueprints/Assets/IMC.uasset'
+[2024.01.19-15.55.40:339][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 649 ms)
+[2024.01.19-15.55.40:343][194]AssetCheck: New page: Asset Save: IMC
+[2024.01.19-15.55.40:343][194]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/StarterContent/Blueprints/Assets/IMC.IMC
+[2024.01.19-15.55.41:672][312]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2024.01.19-15.55.41:713][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.19-15.55.43:233][441]LogSlate: Window 'IA_Rotation' being destroyed
+[2024.01.19-15.55.43:237][441]LogSlate: Window 'IA_Rotation' being destroyed
+[2024.01.19-15.55.43:241][441]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-15.55.43:243][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
