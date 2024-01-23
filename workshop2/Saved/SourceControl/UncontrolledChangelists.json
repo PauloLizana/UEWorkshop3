@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Pablo/Documents/GitHub/UEWorkshop3/workshop2/Content/StarterContent/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/Pablo/Documents/GitHub/UEWorkshop3/workshop2/Content/StarterContent/Blueprints/Assets/IA_Shoot.uasset",
+				"C:/Users/Pablo/Documents/GitHub/UEWorkshop3/workshop2/Content/StarterContent/Blueprints/Assets/IMC.uasset",
+				"C:/Users/Pablo/Documents/GitHub/UEWorkshop3/workshop2/Content/StarterContent/Blueprints/BP_Projectile.uasset",
 				"C:/Users/an7505/Documents/GitHub/UEWorkshop3/workshop2/Content/StarterContent/Blueprints/Assets/IMC.uasset",
 				"C:/Users/an7505/Documents/GitHub/UEWorkshop3/workshop2/Content/StarterContent/Blueprints/Assets/IA_Jump.uasset",
 				"C:/Users/an7505/Documents/GitHub/UEWorkshop3/workshop2/Content/StarterContent/Blueprints/BP_PlayerCharacter.uasset",
